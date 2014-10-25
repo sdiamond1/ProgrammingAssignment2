@@ -1,6 +1,9 @@
 ## The following two functions are used to cache the inverse of a matrix and
 ## recompute the inverse if it is different from the chached value
 
+## this is a matrix to use as an example, just un-comment and run to store
+## a <- matrix(rnorm(100),10,10)
+
 ## The following function "makeCacheMatrix" creates a special "matrix" that is
 ## associated with 4 functions and an environment
 
